@@ -1,0 +1,7 @@
+[
+  {"id":"m101","chat_id":"class_9","sender_id":"dani","sent_at":"2026-10-15T09:00:00+03:00","text":"נפגשים היום?"},
+  {"id":"m102","chat_id":"class_9","sender_id":"maya","sent_at":"2026-10-15T09:01:00+03:00","text":"אצל מי?","reply_to_message_id":"m101"},
+  {"id":"m103","chat_id":"class_9","sender_id":"ron","sent_at":"2026-10-15T09:02:00+03:00","text":"שי שוב הבריז מהעבודה בקבוצה"},
+  {"id":"m104","chat_id":"class_9","sender_id":"dani","sent_at":"2026-10-15T09:03:00+03:00","text":"אצלי בשש","reply_to_message_id":"m102"},
+  {"id":"m105","chat_id":"class_9","sender_id":"maya","sent_at":"2026-10-15T09:04:00+03:00","text":"רון די כבר לרדת עליו","reply_to_message_id":"m103"}
+]

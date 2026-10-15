@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(./.venv/bin/echo-engine)",
+      "Exec(set)",
+      "Exec(./.venv/bin/ruff check)",
+      "Exec(printf)",
+      "Exec(LLM_MODEL_NAME=env-test ./.venv/bin/echo-engine)",
+      "Exec(./.venv/bin/python)",
+      "Exec(./.venv/bin/pip install)"
+    ]
+  }
+}
